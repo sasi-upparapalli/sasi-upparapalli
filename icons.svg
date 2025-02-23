@@ -1,0 +1,26 @@
+<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- C -->
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" x="10" y="10" width="40" height="40"/>
+    <!-- CSS -->
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" x="60" y="10" width="40" height="40"/>
+    <!-- Google Cloud -->
+    <image href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" x="110" y="10" width="40" height="40"/>
+    <!-- Git -->
+    <image href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" x="160" y="10" width="40" height="40"/>
+    <!-- HTML -->
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" x="210" y="10" width="40" height="40"/>
+    <!-- Java -->
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" x="260" y="10" width="40" height="40"/>
+    <!-- JavaScript -->
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" x="310" y="10" width="40" height="40"/>
+    <!-- MongoDB -->
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" x="360" y="10" width="40" height="40"/>
+    <!-- MySQL -->
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" x="410" y="10" width="40" height="40"/>
+    <!-- Node.js -->
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" x="460" y="10" width="40" height="40"/>
+    <!-- Python -->
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" x="510" y="10" width="40" height="40"/>
+    <!-- React -->
+    <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" x="560" y="10" width="40" height="40"/>
+</svg>

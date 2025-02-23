@@ -1,16 +1,100 @@
-## Hi there 👋
 
-<!--
-**sasi-upparapalli/sasi-upparapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/sasi-upparapalli">
+<img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0073.gif" width="100%" height="150px"/>
+</a>
+<h1 align="center">Welcome to Sasi Kanth's world of code!🤖</h1>
+<h3 align="center">"Hello! I'm Sasikanth 🙋‍♂. I'm passionate about expanding my knowledge horizon 🌐 and acquiring new skills at a rapid pace ⏱. Every day, I strive to upscale my expertise 🚀 and stay updated with the latest technological trends 📊. I thrive on hands-on experience 🎯, as it helps me grasp complex concepts with greater clarity 💡. My ultimate goal is to make a meaningful impact in the tech industry 🌟 by introducing innovative ideas and solutions 🤔. I believe that collaboration 🤝 and knowledge sharing 📚 are essential for growth and success 🚀. I'm always eager to team up with like-minded individuals 🤝 and learn from their experiences 📝. For me, learning is a lifelong journey 🌈, and I'm committed to embracing new challenges 🎉 and opportunities 🌟. I'm excited about the future 🌐 and the endless possibilities that technology has to offer 🚀. Let's connect 🤝 and explore opportunities to learn and grow together 🌈!"</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasi-upparapalli&label=Profile%20views&color=0e75b6&style=flat" alt="sasi-upparapalli" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently pursuing Data Science from [Raghu Institute of Technology](https://raghuenggcollege.com/)
+
+- 🌱 I’m currently learning **DSA through Java programming.**
+
+- 📫 How to reach me **ussk2284@gmail.com**
+
+- ⚡ Fun fact **I love playing chess and enjoy solving puzzles.**
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/spicysasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spicysasi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sasikanth-upparapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasikanth-upparapalli" height="30" width="40" /></a>
+<a href="https://fb.com/upparapalli.sasikanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="upparapalli.sasikanth" height="30" width="40" /></a>
+<a href="https://instagram.com/____sasi____upparapalli____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____sasi____upparapalli____" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sasikanth28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sasikanth28" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sasi_upparapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sasi_upparapalli" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sasi_upparapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sasi_upparapalli" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sasi_upparapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sasi_upparapalli" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sasi-upparapalli/sasi-upparapalli/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sasi-upparapalli/sasi-upparapalli/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/sasi-upparapalli/sasi-upparapalli/output/github-snake.svg" />
+  </picture>
+</div>
+
+
+###
+<a href="https://github.com/sasi-upparapalli">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="center">
+ <a href="https://github.com/sasi-upparapalli">
+<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-light-skin-tone.gif" width="26" height="26" align="left" /> 
+    </a>
+ 
+<a href="https://github.com/sasi-upparapalli">
+  <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-light-skin-tone.gif" width="22" height="22" align="right" />
+    </a>
+【﻿STATS】 
+</h3>
+
+<a href="https://github.com/sasi-upparapalli">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+<!-- Adding Github Stats and Streak Stats -->
+
+| <img src="https://github-readme-stats.vercel.app/api?username=sasi-upparapalli&theme=tokyonight&bg_color=0d1117&title_color=ff0000&text_color=ffffff&icon_color=ff0000"> | <img src="https://github-readme-streak-stats.herokuapp.com?user=sasi-upparapalli&theme=tokyonight&background=0d1117&border=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" /> |
+| --- | ---- |
+
+<!-- Adding Readme Stats and Profile Summary -->
+</a>
+</p>
+
+<!--Stats Section End-->
+
+
+<!--Contributions Section Start -->
+<a href="https://github.com/sasi-upparapalli">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="center">
+ <a href="https://github.com/sasi-upparapalli">
+<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-light-skin-tone.gif" width="26" height="26" align="left" /> 
+    </a>
+ 
+<a href="https://github.com/sasi-upparapalli">
+  <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-light-skin-tone.gif" width="22" height="22" align="right" />
+    </a>
+【CONTRIBUTIONS】
+</h3>
+<a href="https://github.com/sasi-upparapalli">
+<img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0239.gif" width="100%" height="5px"/>
+</a>
+
+<table width="100%" align="center">
+<tr>
+<td>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sasi-upparapalli&radius=16&bg_color=0d1117&color=ffffff&line=ff0000&point=facc15&area_color=ff000033&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph" /></p>
+</td>
+</tr>
+</table>

@@ -2,7 +2,7 @@
 <a href="https://github.com/sasi-upparapalli">
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0024.gif" width="150%" height="10px"/>
 </a>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="200" height="200" align="right" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1tbDdqcjZxNjBqaHo2cm5lb2tkN3BkMmRlejQxYmZzOTltYmpwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ykC5h8SBbNDsmdHcX1/giphy.gif" width="200" height="200" align="right" />
 <h3 align="center">Welcome to Sasi Kanth's world of code!🤖</h3>
 <h5 align="left"> 🚀 Passionate Learner: I'm Sasikanth, driven to learn and grow. <br><br><br>
 🤝 Innovative Problem-Solver: I aim to make a meaningful impact in tech with innovative ideas. <br><br><br>

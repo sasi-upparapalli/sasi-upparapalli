@@ -1,15 +1,46 @@
+<img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0239.gif" width="100%" height="3px"/>
+</a></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasi-upparapalli&label=Profile%20views&color=0e75b6&style=flat" alt="sasi-upparapalli" /> </p>
+<h3 align="center">
+        <samp>--  Namaskar everyone, I'm
+                <b><a target="_blank" href="https://github.com/sasi-upparapalli">Sasi</a></b>
+        </samp>
+</h3>
+<h3 align="center">
+  <samp><h3>
+    <br>
+     Welcome to Sasi Kanth's world of code! 🤖
+    <br>
+    <br>
+  </samp>
+</h3>
+<p align="center">
 
-<a href="https://github.com/sasi-upparapalli">
-<img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0024.gif" width="150%" height="10px"/>
-</a>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1tbDdqcjZxNjBqaHo2cm5lb2tkN3BkMmRlejQxYmZzOTltYmpwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ykC5h8SBbNDsmdHcX1/giphy.gif" width="200" height="200" align="right" />
-<h3 align="center">Welcome to Sasi Kanth's world of code!🤖</h3>
+<!--Linkedin -->
+<a href="https://linkedin.com/in/doondi" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasikanth-upparapalli" height="40" width="40" />
+ </a>
+ 
+  <!-- Gmail Link -->
+ <a href="mailto:doondi30@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=160&id=RTmzxrrjcnJ-&format=png" alt="Gmail" height="40" width="40" />
+  </a>
+
+  <!-- Credly Link -->
+  <a href="https://instagram.com/____sasi____upparapalli____" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____sasi____upparapalli____" height="40" width="40"  />
+  </a>
+  
+</p>
+<br />
+<p>
+
 <h5 align="left"> 🚀 Passionate Learner: I'm Sasikanth, driven to learn and grow. <br><br><br>
 🤝 Innovative Problem-Solver: I aim to make a meaningful impact in tech with innovative ideas. <br><br><br>
 🌈 Lifelong Learner: Learning is a lifelong journey for me, embracing new challenges and opportunities. 
 </h5>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasi-upparapalli&label=Profile%20views&color=0e75b6&style=flat" alt="sasi-upparapalli" /> </p>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1tbDdqcjZxNjBqaHo2cm5lb2tkN3BkMmRlejQxYmZzOTltYmpwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ykC5h8SBbNDsmdHcX1/giphy.gif" width="200" height="200" align="right"/>
+<p align="center"> 
 
 - 🔭 I'm currently pursuing Data Science from [Raghu Institute of Technology](https://raghuenggcollege.com/)
 
@@ -46,8 +77,10 @@
   </picture>
 </div>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sasi_upparapalli?theme=dark&font=Times%20New%20Roman&ext=contest" alt="LeetCode Stats" />
+</p>
 
-###
 <a href="https://github.com/sasi-upparapalli">
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0239.gif" width="100%" height="3px"/>
 </a>

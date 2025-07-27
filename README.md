@@ -26,7 +26,7 @@
     <img src="https://img.icons8.com/?size=160&id=RTmzxrrjcnJ-&format=png" alt="Gmail" height="40" width="40" />
   </a>
 
-  <!-- Credly Link -->
+  <!-- Instagram Link -->
   <a href="https://instagram.com/____sasi____upparapalli____" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____sasi____upparapalli____" height="40" width="40"  />
   </a>

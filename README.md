@@ -31,8 +31,12 @@
 <a href="https://instagram.com/____sasi____upparapalli____" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____sasi____upparapalli____" height="40" width="40" />
 </a>
+<h4 align="center">
+**sasikanthupparapalli@gmail.com**
+</h4>
+- 🔭 I'm currently pursuing Data Science from [Raghu Institute of Technology](https://raghuenggcollege.com/)
 
-  
+
 </p>
 <br />
 <p>
@@ -46,9 +50,7 @@
 
 - 🔭 I'm currently pursuing Data Science from [Raghu Institute of Technology](https://raghuenggcollege.com/)
 
-- 🌱 I’m currently learning **DSA through Java programming.**
 
-- 📫 How to reach me **sasikanthupparapalli@gmail.com**
 
 - ⚡ Fun fact **I love playing chess and enjoy solving puzzles.**
 

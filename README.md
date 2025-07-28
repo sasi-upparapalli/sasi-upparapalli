@@ -17,19 +17,21 @@
 <p align="center">
 
 <!--Linkedin -->
+<!-- LinkedIn Link -->
 <a href="https://linkedin.com/in/doondi" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasikanth-upparapalli" height="40" width="40" />
- </a>
- 
-  <!-- Gmail Link -->
- <a href="mailto:doondi30@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=160&id=RTmzxrrjcnJ-&format=png" alt="Gmail" height="40" width="40" />
-  </a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasikanth-upparapalli" height="40" width="40"/>
+</a>&nbsp;&nbsp;&nbsp;
 
-  <!-- Instagram Link -->
-  <a href="https://instagram.com/____sasi____upparapalli____" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____sasi____upparapalli____" height="40" width="40"  />
-  </a>
+<!-- Gmail Link -->
+<a href="mailto:doondi30@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/?size=160&id=RTmzxrrjcnJ-&format=png" alt="Gmail" height="40" width="40" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<!-- Instagram Link -->
+<a href="https://instagram.com/____sasi____upparapalli____" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____sasi____upparapalli____" height="40" width="40" />
+</a>
+
   
 </p>
 <br />

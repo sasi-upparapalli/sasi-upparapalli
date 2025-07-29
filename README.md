@@ -16,7 +16,6 @@
 </h3>
 <p align="center">
 
-<!--Linkedin -->
 <!-- LinkedIn Link -->
 <a href="https://linkedin.com/in/doondi" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasikanth-upparapalli" height="40" width="40"/>

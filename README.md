@@ -31,26 +31,18 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____sasi____upparapalli____" height="40" width="40" />
 </a>
 <h4 align="center">
-**sasikanthupparapalli@gmail.com**
+  📧 <a href="mailto:sasikanthupparapalli@gmail.com"><strong>sasikanthupparapalli@gmail.com</strong></a>
 </h4>
+
 - 🔭 I'm currently pursuing Data Science from [Raghu Institute of Technology](https://raghuenggcollege.com/)
 
 
-</p>
-<br />
-<p>
 
 <h5 align="left"> 🚀 Passionate Learner: I'm Sasikanth, driven to learn and grow. <br><br><br>
 🤝 Innovative Problem-Solver: I aim to make a meaningful impact in tech with innovative ideas. <br><br><br>
 🌈 Lifelong Learner: Learning is a lifelong journey for me, embracing new challenges and opportunities. 
 </h5>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1tbDdqcjZxNjBqaHo2cm5lb2tkN3BkMmRlejQxYmZzOTltYmpwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ykC5h8SBbNDsmdHcX1/giphy.gif" width="200" height="200" align="right"/>
-<p align="center"> 
-
-- 🔭 I'm currently pursuing Data Science from [Raghu Institute of Technology](https://raghuenggcollege.com/)
-
-
-
 - ⚡ Fun fact **I love playing chess and enjoy solving puzzles.**
 
 <h3 align="center">Connect with me:</h3>

@@ -34,7 +34,8 @@
   📧 <a href="mailto:sasikanthupparapalli@gmail.com"><strong>sasikanthupparapalli@gmail.com</strong></a>
 </h4>
 
-- 🔭 I'm currently pursuing Data Science from [Raghu Institute of Technology](https://raghuenggcollege.com/)
+🔭 I'm currently pursuing Data Science from [Raghu Institute of Technology](https://raghuenggcollege.com/)
+
 
 
 

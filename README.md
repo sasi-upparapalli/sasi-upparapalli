@@ -9,7 +9,7 @@
 <h3 align="center">
   <samp><h3>
     <br>
-    ░▒▓█ Welcome to Sasi Kanth's world of code!🤖 █▓▒░
+    ░▒▓█Welcome to Sasi Kanth's world of code!🤖█▓▒░
     <br>
     <br>
   </samp>

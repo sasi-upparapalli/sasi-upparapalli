@@ -129,7 +129,7 @@
 <a href="https://github.com/sasi-upparapalli">
    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="45" height="45" align="right" />
     </a>
-【﻿STATS】 
+【﻿GITHUB STATS】 
 </h3>
 
 <a href="https://github.com/sasi-upparapalli">

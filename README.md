@@ -1,6 +1,22 @@
+
+
+
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0239.gif" width="100%" height="3px"/>
 </a></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasi-upparapalli&label=Profile%20views&color=0e75b6&style=flat" alt="sasi-upparapalli" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sasi-upparapalli&label=Profile%20views&color=0e75b6&style=flat" alt="sasi-upparapalli" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/sasi_upparapalli/">
+    <img src="https://img.shields.io/badge/LeetCode-50%20Days-orange?logo=leetcode&logoColor=white" alt="50 Days Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/sasi_upparapalli/">
+    <img src="https://img.shields.io/badge/LeetCode-100%20Days-yellow?logo=leetcode&logoColor=white" alt="100 Days Badge"/>
+  </a>
+</p>
+
+
+
 <h3 align="center">
         <samp> » »  Namaskar everyone, I'm
                 <b><a target="_blank" href="https://github.com/sasi-upparapalli">Sasi</a></b>

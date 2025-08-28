@@ -39,7 +39,7 @@
 </a>&nbsp;&nbsp;&nbsp;
 
 <!-- Gmail Link -->
-<a href="mailto:doondi30@gmail.com" target="_blank">
+<a href="mailto:sasikanthupparapalli@gmail.com" target="_blank">
   <img src="https://img.icons8.com/?size=160&id=RTmzxrrjcnJ-&format=png" alt="Gmail" height="40" width="40" />
 </a>&nbsp;&nbsp;&nbsp;
 

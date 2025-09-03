@@ -19,7 +19,7 @@
 
 
 <h3 align="center">
-        <samp> » »  Namaskar everyone, I'm
+        <samp> » »  » »Namaskar everyone, I'm
                 <b><a target="_blank" href="https://github.com/sasi-upparapalli">Sasi</a></b>
         </samp>
 </h3>

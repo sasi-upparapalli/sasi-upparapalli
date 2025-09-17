@@ -110,7 +110,7 @@
 |---------------|-------------|----------|------------|
 | **SSC** | Z.P. High School, Laxmipuram | 2019 – 2020 | **92%** |
 | **MPC** | Sri Vignan Junior College | 2020 – 2022 | **84.2% (BIEAP)** |
-| **B.E (CSE - Data Science)** | Raghu Institute of Technology | 2022 – 2026 | **CGPA: 8.28** (Anna University Exams) |
+| **B.E (CSE - Data Science)** | Raghu Institute of Technology | 2022 – 2026 | **CGPA: 8.28** |
 <a href="https://github.com/sasi-upparapalli">
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0239.gif" width="100%" height="3px"/>
 </a>

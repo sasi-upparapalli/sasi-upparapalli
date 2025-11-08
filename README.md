@@ -38,9 +38,8 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasikanth-upparapalli" height="40" width="40"/>
 </a>&nbsp;&nbsp;&nbsp;
 
-<!-- Gmail Link -->
-<a href="mailto:sasikanthupparapalli@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/?size=160&id=RTmzxrrjcnJ-&format=png" alt="Gmail" height="40" width="40" />
+<a href="https://sasi-portfolio-in.netlify.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/62a60b02-e858-489c-8702-dd0fcaac9a51" height=auto width="50"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <!-- Instagram Link -->
